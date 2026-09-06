@@ -132,13 +132,13 @@ The Linux system was confirmed to be responding slowly during normal operation.
 
 The Linux Terminal was opened using:
 
-```text
+```
 Ctrl + Alt + T
 ```
 
 The following command was executed:
 
-```text
+```
 top
 ```
 
@@ -154,7 +154,7 @@ A process with unusually high resource usage was identified and selected for fur
 
 The running processes were reviewed using:
 
-```text
+```
 ps aux
 ```
 
@@ -170,7 +170,7 @@ The resource-intensive process was identified and its process information was re
 
 System memory usage was checked using:
 
-```text
+```
 free -h
 ```
 
@@ -186,7 +186,7 @@ Memory usage was reviewed and sufficient available memory was confirmed after id
 
 Available disk space was checked using:
 
-```text
+```
 df -h
 ```
 
@@ -202,7 +202,7 @@ Disk usage was checked and no critical filesystem capacity issue was identified.
 
 The technician checked the status of relevant system services using:
 
-```text
+```
 systemctl --failed
 ```
 
@@ -210,7 +210,7 @@ The command was used to identify services that had entered a failed state.
 
 The status of an affected service could then be checked using:
 
-```text
+```
 systemctl status service-name
 ```
 
@@ -224,7 +224,7 @@ System services were reviewed and the service status information was used to det
 
 Linux system logs were reviewed using:
 
-```text
+```
 journalctl -p err -b
 ```
 
@@ -246,7 +246,7 @@ The technician confirmed the process name and process ID before deciding whether
 
 If the process was confirmed to be unresponsive or unnecessary, it was terminated using:
 
-```text
+```
 kill PID
 ```
 

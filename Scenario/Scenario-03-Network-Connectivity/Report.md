@@ -263,7 +263,7 @@ The computer successfully obtained a renewed IP configuration from the DHCP serv
 
 The Windows DNS cache was cleared using:
 
-```text
+```
 ipconfig /flushdns
 ```
 
