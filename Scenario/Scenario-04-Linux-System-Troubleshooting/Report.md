@@ -327,7 +327,7 @@ The following evidence will be collected:
 
 ### Evidence Files
 
-```text
+```
 Screenshots/
 ├── 01-system-performance-issue.png
 ├── 02-top-resource-usage.png
