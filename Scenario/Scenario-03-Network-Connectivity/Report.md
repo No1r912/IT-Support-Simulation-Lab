@@ -78,13 +78,13 @@ The issue was isolated to the affected computer's network connectivity. Further 
 
 ### Shortcuts
 
-```text
+```
 Win + R
 ```
 
 ### Network Settings Location
 
-```text
+```
 Settings → Network & Internet
 ```
 
@@ -143,7 +143,7 @@ The technician checked whether the Ethernet cable was securely connected or whet
 
 The connection status was checked using:
 
-```text
+```
 Settings → Network & Internet
 ```
 
@@ -159,7 +159,7 @@ The physical and network connection were checked, and the computer's network con
 
 Command Prompt was opened and the following command was executed:
 
-```text
+```
 ipconfig
 ```
 
@@ -171,7 +171,7 @@ The technician checked the:
 
 The complete network configuration was then reviewed using:
 
-```text
+```
 ipconfig /all
 ```
 
@@ -189,7 +189,7 @@ The default gateway identified using `ipconfig` was tested with the `ping` comma
 
 Example:
 
-```text
+```
 ping 192.168.1.1
 ```
 
@@ -205,7 +205,7 @@ The computer was able to communicate with the local gateway, confirming that loc
 
 An external IP address was tested using:
 
-```text
+```
 ping 8.8.8.8
 ```
 
@@ -221,7 +221,7 @@ External connectivity was tested to determine whether the issue affected general
 
 DNS resolution was tested using:
 
-```text
+```
 nslookup google.com
 ```
 
@@ -237,19 +237,19 @@ DNS resolution was tested and the results were used to determine whether DNS was
 
 Because the computer's network configuration was suspected to be incorrect, the existing DHCP configuration was released using:
 
-```text
+```
 ipconfig /release
 ```
 
 A new network configuration was then requested using:
 
-```text
+```
 ipconfig /renew
 ```
 
 The resulting configuration was checked again using:
 
-```text
+```
 ipconfig
 ```
 
@@ -342,7 +342,7 @@ The following evidence will be collected:
 
 ### Evidence Files
 
-```text
+```
 Screenshots/
 ├── 01-network-failure.png
 ├── 02-network-settings.png

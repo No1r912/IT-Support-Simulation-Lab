@@ -71,7 +71,7 @@ The issue was isolated to the Linux system rather than the physical computer har
 
 ### Shortcuts
 
-```text
+```
 Ctrl + Alt + T
 ```
 

@@ -112,7 +112,7 @@ controlled environment while reducing the risk of affecting the main operating s
 
 # 6. Environment Design
 
-```text
+```
              IT Support Simulation Lab
                         |
               Virtual Machine Environment
@@ -138,7 +138,7 @@ performed by technicians when assisting users and maintaining computer systems.
 
 The project follows a structured troubleshooting methodology:
 
-```text
+```
 User Reports Problem
         ↓
 Gather Information
@@ -191,7 +191,7 @@ Each troubleshooting scenario contains a dedicated report and supporting evidenc
 
 The scenario documentation follows this structure:
 
-```text
+```
 Scenario
     ↓
 User Report
@@ -217,7 +217,7 @@ Evidence
 
 Each scenario directory contains:
 
-```text
+```
 Scenario-XX-Name/
 ├── Report.md
 └── Screenshots/
