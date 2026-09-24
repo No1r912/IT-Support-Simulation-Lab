@@ -1,13 +1,10 @@
 # IT Support Simulation Lab
 
-**Author:**
-Muhammad Hazwan Al-Imtiaz Bin Khairol Arifin
+**Author:** No1r
 
-**Version:**
-1.0
+**Version:** 1.0
 
-**Project Type:**  
-IT Support / Troubleshooting Lab
+**Project Type:** IT Support / Troubleshooting Lab
 
 ---
 
@@ -68,6 +65,7 @@ The lab environment includes:
 
 IT-Support-Simulation-Lab/
 
+```
 ├── README.md
 ├── Documentation.md
 ├── Scenarios/
@@ -88,7 +86,7 @@ IT-Support-Simulation-Lab/
 │       └── Screenshots/
 │
 └── Diagrams/
-
+```
 
 ---
 
