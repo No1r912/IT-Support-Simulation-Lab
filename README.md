@@ -1,13 +1,5 @@
 # IT Support Simulation Lab
 
-**Author:** No1r
-
-**Version:** 1.0
-
-**Project Type:** IT Support / Troubleshooting Lab
-
----
-
 ## Introduction
 
 The IT Support Simulation Lab is a practical project designed to simulate a real-world IT support environment. This project focuses on troubleshooting technical issues, assisting users, resolving hardware and software problems, performing system maintenance and creating professional technical documentation.
